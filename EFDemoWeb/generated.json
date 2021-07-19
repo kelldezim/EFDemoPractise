@@ -1,0 +1,50 @@
+[
+  {
+    "FirstName": "Strickland",
+    "LastName": "Boone",
+    "Age": 33,
+    "Addresses": [
+      {
+        "StreetAddress": "Grattan Street",
+        "City": "Martin",
+        "State": "South Dakota",
+        "ZipCode": "15349867"
+      },
+      {
+        "StreetAddress": "Modi",
+        "City": "Cacow",
+        "State": "North Dakota",
+        "ZipCode": "25894"
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "someone@fewparts.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "Hanny",
+    "LastName": "Lora",
+    "Age": 41,
+    "Addresses": [
+      {
+        "StreetAddress": "Grota",
+        "City": "Wawa",
+        "State": "Mazowsze",
+        "ZipCode": "3532"
+      },
+      {
+        "StreetAddress": "Roweckiego",
+        "City": "Wawa",
+        "State": "Mazowsze",
+        "ZipCode": "3542"
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "someone@fewparts.com"
+      }
+    ]
+  }
+]
